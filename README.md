@@ -12,7 +12,7 @@ to source code changes. If you encounter a problem you can compare your code to 
 Got a question about your Spring Framework 5 course? [Checkout these FAQs!](https://github.com/springframeworkguru/spring5webapp/wiki)
 
 ## Getting Your Development Environment Setup
-### Recommended Versions
+### Recommended Versionsdd
  | Recommended | Reference | Notes |
 | ----------- | --------- | ----- |
 | Oracle Java 8 JDK | [Download](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) | Java 11 is okay, see notes about Java [on the course wiki](https://github.com/springframeworkguru/spring5webapp/wiki/Java-Version) |
